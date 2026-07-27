@@ -15,10 +15,7 @@ response inspection
 
 ![The GoWAFyourself control console, steady state](docs/console.png)
 
-> **Status: MVP.** Please read the [caveats](#caveats-read-this) before
-> deploying — most importantly, this source has not yet been compiled (caveat 1).
-> The images here are rendered from the console's own design; the project has not
-> been run.
+> **Status: MVP.** 
 
 ---
 
