@@ -1,0 +1,294 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 1132" width="1120" height="1132" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" role="img" aria-label="GoWAFyourself control console">
+<rect x="0" y="0" width="1120" height="1132" rx="0" fill="#0B1017"/>
+<rect x="0" y="0" width="1120" height="38" rx="0" fill="#0E141C"/>
+<line x1="0" y1="38" x2="1120" y2="38" stroke="#22303F" stroke-width="1"/>
+<circle cx="22" cy="19" r="5" fill="#FF5D6C" opacity="0.55"/>
+<circle cx="39" cy="19" r="5" fill="#F2B75C" opacity="0.55"/>
+<circle cx="56" cy="19" r="5" fill="#43D9A3" opacity="0.55"/>
+<rect x="84" y="10" width="300" height="19" rx="3" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="95" y="23.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">127.0.0.1:9000</text>
+<text x="1076" y="23.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="end">GoWAFyourself console</text>
+<text x="44" y="78" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="21" font-weight="700" text-anchor="start">Go</text>
+<text x="69.2" y="78" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="21" font-weight="700" text-anchor="start">WAF</text>
+<text x="107.0" y="78" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="21" font-weight="700" text-anchor="start">yourself</text>
+<text x="229.79999999999998" y="77" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="400" text-anchor="start" letter-spacing="1.6">WEB APPLICATION FIREWALL</text>
+<rect x="972.1" y="63" width="103.89999999999999" height="21" rx="2" fill="none" stroke="#22303F" stroke-width="1"/>
+<text x="983.1" y="77.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="0.9">BRIDGE CLOSED</text>
+<rect x="872.8000000000001" y="63" width="91.3" height="21" rx="2" fill="none" stroke="#2A5B49" stroke-width="1"/>
+<text x="883.8000000000001" y="77.5" fill="#43D9A3" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="0.9">MODE: BLOCK</text>
+<rect x="44" y="104" width="1032" height="132" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<text x="62" y="130" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" text-anchor="start" letter-spacing="1.5">DECISIONS</text>
+<text x="152" y="130" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start" opacity="0.75">newest right</text>
+<text x="1058" y="130" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="end">last 120 requests</text>
+<rect x="62.0" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="70.3" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="78.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="86.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="95.2" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="103.5" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="111.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="120.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="128.4" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="136.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="145.0" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="153.3" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="161.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="169.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="178.2" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="186.5" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="194.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="203.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="211.4" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="219.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="228.0" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="236.3" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="244.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="252.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="261.2" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="269.5" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="277.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="286.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="294.4" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="302.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="311.0" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="319.3" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="327.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="335.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="344.2" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="352.5" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="360.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="369.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="377.4" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="385.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="394.0" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="402.3" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="410.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="418.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="427.2" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="435.5" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="443.8" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="452.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="460.4" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="468.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="477.0" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="485.3" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="493.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="501.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="510.2" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="518.5" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="526.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="535.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="543.4" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="551.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="560.0" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="568.3" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="576.6" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="584.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="593.2" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="601.5" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="609.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="618.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="626.4" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="634.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="643.0" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="651.3" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="659.6" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="667.9" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="676.2" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="684.5" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="692.8" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="701.1" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="709.4" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="717.7" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="726.0" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="734.3" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="742.6" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="750.9" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="759.2" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="767.5" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="775.8" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="784.1" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="792.4" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="800.7" y="183.5" width="7.0" height="12.5" rx="1" fill="#2C6B57"/>
+<rect x="809.0" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="817.3" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="825.6" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="833.9" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="842.2" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="850.5" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="858.8" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="867.1" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="875.4" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="883.7" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="892.0" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="900.3" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="908.6" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="916.9" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="925.2" y="157.6" width="7.0" height="38.4" rx="1" fill="#8C3B45"/>
+<rect x="933.5" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="941.8" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="950.1" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="958.4" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="966.7" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="975.0" y="157.6" width="7.0" height="38.4" rx="1" fill="#8C3B45"/>
+<rect x="983.3" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="991.6" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="999.9" y="157.6" width="7.0" height="38.4" rx="1" fill="#8C3B45"/>
+<rect x="1008.2" y="157.6" width="7.0" height="38.4" rx="1" fill="#8C3B45"/>
+<rect x="1016.5" y="165.3" width="7.0" height="30.7" rx="1" fill="#F2B75C"/>
+<rect x="1024.8" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="1033.1" y="157.6" width="7.0" height="38.4" rx="1" fill="#8C3B45"/>
+<rect x="1041.4" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<rect x="1049.7" y="148.0" width="7.0" height="48.0" rx="1" fill="#FF5D6C"/>
+<line x1="62" y1="197" x2="1058" y2="197" stroke="#22303F"/>
+<rect x="62" y="210" width="8" height="8" rx="1" fill="#2C6B57"/>
+<text x="75" y="217.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">allowed</text>
+<rect x="141.1" y="210" width="8" height="8" rx="1" fill="#F2B75C"/>
+<text x="154.1" y="217.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">detected</text>
+<rect x="226.5" y="210" width="8" height="8" rx="1" fill="#FF5D6C"/>
+<text x="239.5" y="217.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">blocked</text>
+<rect x="305.6" y="210" width="8" height="8" rx="1" fill="#3E4E60"/>
+<text x="318.6" y="217.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">shed</text>
+<rect x="365.8" y="210" width="8" height="8" rx="1" fill="#8C3B45"/>
+<text x="378.8" y="217.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">upstream error</text>
+<rect x="44" y="258" width="1032" height="125" rx="3" fill="#22303F"/>
+<rect x="44.0" y="258" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="57.0" y="288" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">141,802</text>
+<text x="57.0" y="305" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">REQUESTS</text>
+<rect x="216.16666666666666" y="258" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="229.16666666666666" y="288" fill="#FF5D6C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">9,540</text>
+<text x="229.16666666666666" y="305" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BLOCKED</text>
+<rect x="388.3333333333333" y="258" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="401.3333333333333" y="288" fill="#FF5D6C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">214</text>
+<text x="401.3333333333333" y="305" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BLOCKED (RESP)</text>
+<rect x="560.5" y="258" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="573.5" y="288" fill="#F2B75C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">3,120</text>
+<text x="573.5" y="305" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">DETECTED</text>
+<rect x="732.6666666666666" y="258" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="745.6666666666666" y="288" fill="#F2B75C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">212</text>
+<text x="745.6666666666666" y="305" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">IN FLIGHT</text>
+<rect x="904.8333333333333" y="258" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="917.8333333333333" y="288" fill="#F2B75C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">47</text>
+<text x="917.8333333333333" y="305" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">QUEUED</text>
+<rect x="44.0" y="321" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="57.0" y="351" fill="#F2B75C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">1,880</text>
+<text x="57.0" y="368" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">SHED</text>
+<rect x="216.16666666666666" y="321" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="229.16666666666666" y="351" fill="#FF5D6C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">640</text>
+<text x="229.16666666666666" y="368" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">UPSTREAM ERRS</text>
+<rect x="388.3333333333333" y="321" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="401.3333333333333" y="351" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">8</text>
+<text x="401.3333333333333" y="368" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">NO ROUTE</text>
+<rect x="560.5" y="321" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="573.5" y="351" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">0</text>
+<text x="573.5" y="368" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BRIDGED</text>
+<rect x="732.6666666666666" y="321" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="745.6666666666666" y="351" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">0</text>
+<text x="745.6666666666666" y="368" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">WAF PANICS</text>
+<rect x="904.8333333333333" y="321" width="171.16666666666666" height="62" rx="0" fill="#131B26"/>
+<text x="917.8333333333333" y="351" fill="#F2B75C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="19" font-weight="600" text-anchor="start">156</text>
+<text x="917.8333333333333" y="368" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">LOGS DROPPED</text>
+<text x="44" y="413" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">ENFORCEMENT</text>
+<rect x="44" y="423" width="506.0" height="92" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<rect x="60" y="439" width="108.55" height="27" rx="2" fill="#1A2432" stroke="#2A5B49" stroke-width="1"/>
+<text x="73" y="456.5" fill="#43D9A3" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Block traffic</text>
+<rect x="176.55" y="439" width="95.85" height="27" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="189.55" y="456.5" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Detect only</text>
+<rect x="280.4" y="439" width="102.19999999999999" height="27" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="293.4" y="456.5" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Turn WAF off</text>
+<text x="60" y="495" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">Detect logs what it would have blocked and lets it</text>
+<text x="60" y="508" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">through. Off skips inspection entirely.</text>
+<text x="570.0" y="413" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">CAPACITY</text>
+<rect x="570.0" y="423" width="506.0" height="92" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<text x="586.0" y="445" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start">In flight</text>
+<text x="1060.0" y="445" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end">212 / 256</text>
+<rect x="586.0" y="453" width="474.0" height="6" rx="1" fill="#1A2432"/>
+<rect x="586.0" y="453" width="393.41999999999996" height="6" rx="1" fill="#FF5D6C"/>
+<text x="586.0" y="481" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start">Queued</text>
+<text x="1060.0" y="481" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end">47 / 512</text>
+<rect x="586.0" y="489" width="474.0" height="6" rx="1" fill="#1A2432"/>
+<rect x="586.0" y="489" width="42.66" height="6" rx="1" fill="#F2B75C"/>
+<text x="44" y="531" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BRIDGE</text>
+<rect x="44" y="541" width="506.0" height="104" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<text x="60" y="565" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">The WAF is inline. Open the bridge to pass</text>
+<text x="60" y="581" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">traffic through untouched if inspection is</text>
+<text x="60" y="597" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">causing trouble.</text>
+<rect x="60" y="607" width="191.1" height="27" rx="2" fill="#1A2432" stroke="#5C2A31" stroke-width="1"/>
+<text x="73" y="624.5" fill="#FF5D6C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Open bridge — skip the WAF</text>
+<text x="570.0" y="531" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">INSPECTION</text>
+<rect x="570.0" y="541" width="506.0" height="104" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<rect x="586.0" y="554" width="12" height="12" rx="2" fill="#16382E" stroke="#43D9A3" stroke-width="1"/>
+<path d="M 589.0 559.5 l 2.6 2.8 l 5.2 -6" fill="none" stroke="#43D9A3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="606.0" y="564" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Inspect request bodies</text>
+<rect x="586.0" y="576" width="12" height="12" rx="2" fill="#16382E" stroke="#43D9A3" stroke-width="1"/>
+<path d="M 589.0 581.5 l 2.6 2.8 l 5.2 -6" fill="none" stroke="#43D9A3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="606.0" y="586" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Inspect responses</text>
+<rect x="586.0" y="598" width="12" height="12" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="606.0" y="608" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Inspect response bodies</text>
+<text x="586.0" y="627" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">Paranoia 1 · anomaly threshold 5</text>
+<text x="44" y="661" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BACKENDS</text>
+<rect x="44" y="671" width="1032" height="150" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<text x="60" y="695" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BACKEND</text>
+<text x="464" y="695" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">CIRCUIT</text>
+<line x1="60" y1="703" x2="1060" y2="703" stroke="#22303F"/>
+<text x="60" y="723" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">http://10.0.3.11:8080</text>
+<text x="464" y="723" fill="#43D9A3" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">closed</text>
+<line x1="60" y1="732" x2="1060" y2="732" stroke="#22303F" opacity="0.6"/>
+<text x="60" y="749" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">http://10.0.3.12:8080</text>
+<text x="464" y="749" fill="#43D9A3" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">closed</text>
+<line x1="60" y1="758" x2="1060" y2="758" stroke="#22303F" opacity="0.6"/>
+<text x="60" y="775" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">http://10.0.4.20:8080</text>
+<text x="464" y="775" fill="#FF5D6C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">open</text>
+<line x1="60" y1="784" x2="1060" y2="784" stroke="#22303F" opacity="0.6"/>
+<text x="60" y="801" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">http://10.0.4.21:8080</text>
+<text x="464" y="801" fill="#F2B75C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">half-open</text>
+<text x="44" y="843" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">UPSTREAMS</text>
+<rect x="44" y="853" width="1032" height="218" rx="3" fill="#131B26" stroke="#22303F" stroke-width="1"/>
+<text x="60" y="877" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">HOST — POINT A CNAME OR A RECORD HERE</text>
+<text x="464" y="877" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">TARGETS</text>
+<text x="774" y="877" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">MODE</text>
+<text x="874" y="877" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">BRIDGE</text>
+<line x1="60" y1="885" x2="1060" y2="885" stroke="#22303F"/>
+<text x="60" y="905" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">shop.example.com</text>
+<text x="464" y="905" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start" opacity="0.85">http://10.0.3.11:8080</text>
+<text x="464" y="921" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start" opacity="0.85">http://10.0.3.12:8080</text>
+<text x="774" y="905" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">global</text>
+<text x="874" y="905" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">closed</text>
+<rect x="986" y="890" width="58.099999999999994" height="23" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="996" y="905.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Remove</text>
+<line x1="60" y1="931" x2="1060" y2="931" stroke="#22303F" opacity="0.6"/>
+<text x="60" y="947" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">api.example.com</text>
+<text x="464" y="947" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start" opacity="0.85">http://10.0.4.20:8080</text>
+<text x="464" y="963" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start" opacity="0.85">http://10.0.4.21:8080</text>
+<text x="774" y="947" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">detect</text>
+<text x="874" y="947" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">closed</text>
+<rect x="986" y="932" width="58.099999999999994" height="23" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="996" y="947.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Remove</text>
+<line x1="60" y1="973" x2="1060" y2="973" stroke="#22303F" opacity="0.6"/>
+<text x="60" y="989" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">legacy.example.com</text>
+<text x="464" y="989" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="start" opacity="0.85">http://10.0.5.9:8080</text>
+<text x="774" y="989" fill="#E3ECF5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">off</text>
+<text x="874" y="989" fill="#FF5D6C" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">open</text>
+<rect x="986" y="974" width="58.099999999999994" height="23" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="996" y="989.5" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Remove</text>
+<line x1="60" y1="999" x2="1060" y2="999" stroke="#22303F" opacity="0.6"/>
+<text x="60" y="1019" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">HOST</text>
+<rect x="60" y="1025" width="210" height="28" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="71" y="1044" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start" opacity="0.6">app.example.com</text>
+<text x="284" y="1019" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="9.5" font-weight="500" text-anchor="start" letter-spacing="1.4">TARGET</text>
+<rect x="284" y="1025" width="250" height="28" rx="2" fill="#1A2432" stroke="#22303F" stroke-width="1"/>
+<text x="295" y="1044" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start" opacity="0.6">http://127.0.0.1:3000</text>
+<rect x="548" y="1025" width="102.19999999999999" height="28" rx="2" fill="#1A2432" stroke="#2A4A5B" stroke-width="1"/>
+<text x="561" y="1043.0" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11.5" font-weight="400" text-anchor="start">Add upstream</text>
+<line x1="44" y1="1087" x2="1076" y2="1087" stroke="#22303F"/>
+<text x="44" y="1107" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">http</text>
+<text x="77.2" y="1107" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">:8080</text>
+<text x="134.7" y="1107" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">https</text>
+<text x="174.2" y="1107" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">:8443 (acme)</text>
+<text x="275.79999999999995" y="1107" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">console</text>
+<text x="327.9" y="1107" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">127.0.0.1:9000</text>
+<text x="442.09999999999997" y="1107" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">logs</text>
+<text x="475.29999999999995" y="1107" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">both</text>
+<text x="526.5" y="1107" fill="#8296AB" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">up</text>
+<text x="547.1" y="1107" fill="#4FC3E8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" font-weight="400" text-anchor="start">6d 11h</text>
+</svg>

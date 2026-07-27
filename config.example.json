@@ -1,0 +1,71 @@
+{
+  "listen": {
+    "http": ":8080",
+    "https": "",
+    "panel": "127.0.0.1:9000"
+  },
+  "tls": {
+    "mode": "off",
+    "certFile": "",
+    "keyFile": "",
+    "acmeEmail": "you@example.com",
+    "acmeStaging": true,
+    "acmeCacheDir": "./certs"
+  },
+  "upstreams": [
+    {
+      "host": "localhost",
+      "target": "http://127.0.0.1:3000",
+      "targets": [],
+      "waf": "",
+      "bypass": false
+    }
+  ],
+  "admission": {
+    "maxConcurrent": 256,
+    "queueSize": 512,
+    "queueTimeoutMs": 3000
+  },
+  "breaker": {
+    "enabled": true,
+    "windowSize": 50,
+    "errorThreshold": 0.5,
+    "cooldownMs": 10000,
+    "minRequests": 20
+  },
+  "waf": {
+    "mode": "block",
+    "inspectBody": true,
+    "maxBodyBytes": 1048576,
+    "inspectResponse": false,
+    "inspectResponseBody": false,
+    "maxResponseBodyBytes": 524288,
+    "outboundAnomalyThreshold": 0,
+    "paranoiaLevel": 1,
+    "anomalyThreshold": 5,
+    "customRulesPath": "rules/custom.conf",
+    "autoBypassOnPanics": 0
+  },
+  "logging": {
+    "sink": "disk",
+    "diskPath": "./logs/events.jsonl",
+    "rotateMB": 100,
+    "flushIntervalMs": 1000,
+    "bufferSize": 4096,
+    "s3": {
+      "bucket": "",
+      "region": "us-east-1",
+      "prefix": "waf-logs/",
+      "accessKeyId": "",
+      "secretAccessKey": "",
+      "endpoint": "",
+      "batchSize": 500,
+      "flushIntervalMs": 5000
+    }
+  },
+  "panel": {
+    "enabled": true,
+    "user": "admin",
+    "pass": "change-me-please"
+  }
+}

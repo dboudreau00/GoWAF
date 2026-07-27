@@ -1,0 +1,38 @@
+# systemd unit for GoWAFyourself.
+#   install: cp deploy/gowafyourself.service /etc/systemd/system/
+#            systemctl daemon-reload && systemctl enable --now gowafyourself
+#   reload:  systemctl reload gowafyourself     (SIGHUP, no dropped connections)
+[Unit]
+Description=GoWAFyourself web application firewall
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=gowaf
+Group=gowaf
+WorkingDirectory=/opt/gowafyourself
+ExecStart=/opt/gowafyourself/bin/gowafyourself -config /opt/gowafyourself/config.json
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=2s
+
+# Binding 80/443 without running as root.
+AmbientCapabilities=CAP_NET_BIND_SERVICE
+CapabilityBoundingSet=CAP_NET_BIND_SERVICE
+
+# Give the process the smallest surface that still lets it work.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+ReadWritePaths=/opt/gowafyourself/logs /opt/gowafyourself/certs /opt/gowafyourself/config.json
+
+# Graceful drain: match or exceed the 20s shutdown timeout in main.go.
+TimeoutStopSec=30
+
+[Install]
+WantedBy=multi-user.target
